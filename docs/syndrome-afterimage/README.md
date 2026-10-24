@@ -7,6 +7,7 @@
 
 ## 먼저 읽을 순서
 
+0. [지금 무엇을 해야 하나?](00_START_HERE.md) — 초보자용 다음 단계와 당장 하지 말아야 할 일
 1. [현재 프로젝트 상태](00_PROJECT_STATUS.md) — 확정 조건, 보류 항목, 위험
 2. [상세 조사 통합 보고서](10_DETAILED_RESEARCH_SYNTHESIS.md) — 지금까지의 종합 분석과 한계
 3. [조사 로드맵](01_RESEARCH_ROADMAP.md) — 단계별 작업과 의사결정 관문
