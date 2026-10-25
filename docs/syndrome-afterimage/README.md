@@ -21,9 +21,8 @@
 11. [조사 워크플로와 프롬프트](09_RESEARCH_WORKFLOW_AND_PROMPTS.md) — 다음 조사에 재사용할 절차
 12. [보관 문서](archive/README.md) — 이전 조사 기록의 취급 방식
 
-14. [사례 기반 게임 설계 조사](research/CASE_STUDY_RESEARCH_CORE_INTERACTIONS_v0.1.md) — 탐험·단서·퍼즐·위협·선택 구조에 관한 1차 비교 연구
-
-13. [기존 계획서](research/SYNDROME_AFTERIMAGE_RESEARCH_PLAN_v0.1.md), [진행 현황](research/SYNDROME_AFTERIMAGE_RESEARCH_STATUS_v0.1.md), [주장·출처 감사](research/SYNDROME_AFTERIMAGE_CLAIM_SOURCE_AUDIT_v0.1.md)
+13. [사례 기반 게임 설계 조사](research/CASE_STUDY_RESEARCH_CORE_INTERACTIONS_v0.1.md) — 탐험·단서·퍼즐·위협·선택 구조에 관한 1차 비교 연구
+14. [기존 계획서](research/SYNDROME_AFTERIMAGE_RESEARCH_PLAN_v0.1.md), [진행 현황](research/SYNDROME_AFTERIMAGE_RESEARCH_STATUS_v0.1.md), [주장·출처 감사](research/SYNDROME_AFTERIMAGE_CLAIM_SOURCE_AUDIT_v0.1.md)
 
 ## 현재 유지해야 할 원칙
 
